@@ -14,25 +14,46 @@
    :caption: AOS und AHV Labs
    :hidden:
 
-   2-aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
-   2-aosandahv/lab_storage_configuration/lab_storage_configuration
-   2-aosandahv/lab_network_configuration/lab_network_configuration
-   2-aosandahv/lab_deploy_workloads/lab_deploy_workloads
-   2-aosandahv/lab_manage_workloads/lab_manage_workloads
-   2-aosandahv/lab_data_protection/lab_data_protection
+   aosandahv/lab_nutanix_tech_overview/lab_nutanix_tech_overview
+   aosandahv/lab_storage_configuration/lab_storage_configuration
+   aosandahv/lab_network_configuration/lab_network_configuration
+   aosandahv/lab_deploy_workloads/lab_deploy_workloads
+   aosandahv/lab_manage_workloads/lab_manage_workloads
+   aosandahv/lab_data_protection/lab_data_protection
+   aosandahv/image_create/image_create
+   aosandahv/lab_image_configuration/lab_image_configuration
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Nutanix Files
+   :hidden:
+
+   files/files_smb_share/files_smb_share
+   files/files_nfs_export/files_nfs_export
+   files/files_file_blocking/files_file_blocking
+   files/files_multiprotocol/files_multiprotocol
+   files/file_analytics_scan/file_analytics_scan
+   files/file_analytics_anomaly/file_analytics_anomaly
+   files/files_deploy/files_deploy
+   files/file_analytics_deploy/file_analytics_deploy
+   files/files_expand_cluster/files_expand_cluster
 
 .. toctree::
    :maxdepth: 2
-   :caption: Private Cloud Labs
+   :caption: Era mit MS SQL
    :hidden:
 
-   4-privatecloud/dayinlife/dayinlife
-   4-privatecloud/prismops/prismops_capacity_lab/prismops_capacity_lab
-   4-privatecloud/prismops/prismops_rightsize_lab/prismops_rightsize_lab
-   4-privatecloud/security/security
-   4-privatecloud/files/files
-   4-privatecloud/flow_secure_fiesta/flow_secure_fiesta
+   EraWithMSSQL/labsetup/labsetup
+   EraWithMSSQL/deploy_mssql/deploy_mssql
+   EraWithMSSQL/admin_mssqldb/admin_mssqldb
+   EraWithMSSQL/deploy_mssql_era/deploy_mssql_era
+   EraWithMSSQL/aag/aag
+   EraWithMSSQL/cloning_with_calm/cloning_with_calm
+   EraWithMSSQL/flow_secure_fiesta/flow_secure_fiesta
+   EraWithMSSQL/flow_isolate_fiesta/flow_isolate_fiesta
+   EraWithMSSQL/era_rest_api/era_rest_api
    
+  
 .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
