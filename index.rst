@@ -20,8 +20,6 @@
    aosandahv/lab_deploy_workloads/lab_deploy_workloads
    aosandahv/lab_manage_workloads/lab_manage_workloads
    aosandahv/lab_data_protection/lab_data_protection
-   aosandahv/image_create/image_create
-   aosandahv/lab_image_configuration/lab_image_configuration
    
 .. toctree::
    :maxdepth: 2
@@ -34,6 +32,7 @@
    files/files_multiprotocol/files_multiprotocol
    files/file_analytics_scan/file_analytics_scan
    files/file_analytics_anomaly/file_analytics_anomaly
+   files/peer/peer
    files/files_deploy/files_deploy
    files/file_analytics_deploy/file_analytics_deploy
    files/files_expand_cluster/files_expand_cluster
