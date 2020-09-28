@@ -26,15 +26,13 @@
    :caption: Nutanix Files
    :hidden:
 
+   files/files_deploy/files_deploy
    files/files_smb_share/files_smb_share
    files/files_nfs_export/files_nfs_export
    files/files_file_blocking/files_file_blocking
    files/files_multiprotocol/files_multiprotocol
    files/file_analytics_scan/file_analytics_scan
    files/file_analytics_anomaly/file_analytics_anomaly
-   files/peer/peer
-   files/files_deploy/files_deploy
-   files/file_analytics_deploy/file_analytics_deploy
    files/files_expand_cluster/files_expand_cluster
 
 .. toctree::
@@ -78,21 +76,7 @@ In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation ke
 - AOS
 - AHV
 - Prism
-- Prism Pro
 - Files
-- Flow
-
-**Thematisch werden folgende Themen abgedeckt:**
-
-- Nutanix Tech Overview Lab
-- Storage Configuration Lab
-- Networking Configuration Lab
-- Deploying Workloads Lab
-- A Day in the Life
-- Prism Ops Capacity Runway
-- Right-sizing VMs with Prism Ops
-- Platform Security
-- Consolidating Storage with Files
-- Securing Applications with Flow
+- Era mit MS SQL
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**
