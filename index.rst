@@ -37,7 +37,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Era mit MS SQL
+   :caption: Nutanix Era mit MS SQL
    :hidden:
 
    EraWithMSSQL/labsetup/labsetup
