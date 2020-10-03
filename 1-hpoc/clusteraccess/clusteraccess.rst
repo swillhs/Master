@@ -17,7 +17,7 @@ Frame VDI Client
 .. note::
    Die Nutanix Frame VDI Lösung ist i.d.R. der einfachste und unkomplizierteste Weg auf die Umgebung zuzugreifen. Hierfür wird eine VDI Session mittels des Browsers aufgebaut ohne, dass etwas auf Ihren Rechner installiert werden muss. Beachten Sie aber Bitte, dass Frame eine VDI Session innerhalb ihres Browsers aufbaut, sprich schließen Sie den Browser oder den Tab ist die Session auch beendet. Für ein optimiertes Nutzererlebnis wird Google Chrome oder Mozilla Firefox als Browser empfohlen.
 
-1. Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://frame.nutanix.com/x/labs
+1. Melden Sie sich auf folgende Website mit Ihren Zugangsdaten an: https://console.nutanix.com/x/labs
 
 .. figure:: images/frame-login.png
 
