@@ -20,7 +20,7 @@
    aosandahv/lab_deploy_workloads/lab_deploy_workloads
    aosandahv/lab_manage_workloads/lab_manage_workloads
    aosandahv/lab_data_protection/lab_data_protection
-   
+
 .. toctree::
    :maxdepth: 2
    :caption: Nutanix Files
@@ -37,20 +37,19 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nutanix Era mit MS SQL
+   :caption: Nutanix Calm
    :hidden:
 
-   EraWithMSSQL/labsetup/labsetup
-   EraWithMSSQL/deploy_mssql/deploy_mssql
-   EraWithMSSQL/admin_mssqldb/admin_mssqldb
-   EraWithMSSQL/deploy_mssql_era/deploy_mssql_era
-   EraWithMSSQL/aag/aag
-   EraWithMSSQL/cloning_with_calm/cloning_with_calm
-   EraWithMSSQL/flow_secure_fiesta/flow_secure_fiesta
-   EraWithMSSQL/flow_isolate_fiesta/flow_isolate_fiesta
-   EraWithMSSQL/era_rest_api/era_rest_api
-   
-  
+   what_is_calm/what_is_calm
+   calm_enable/calm_enable
+   calm_projects/calm_projects
+   calm_linux/calm_linux
+   calm_win/calm_win
+   calm_day2/calm_day2
+   calm_marketplace/calm_marketplace
+   calm_escript/calm_escript
+
+
 .. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
@@ -67,7 +66,7 @@ Herzlich willkommen auf dem Nutanix Hosted PoC
 
 .. figure:: images/Intro.png
 
-Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten. 
+Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
 In diesem Bootcamp lernen Sie Prism Element, dessen Funktionen und Navigation kennen. Sie werden Prism verwenden, um grundlegende Clusterverwaltungsaufgaben auszuführen, einschließlich Speicher und Netzwerk. Sie werden auch grundlegende Aufgaben zur Bereitstellung und Verwaltung von VMs mit Prism und AHV ausführen. Schließlich werden sie den VM-Protection untersuchen, einschließlich Snapshots und Replikation. Am Ende des Bootcamps sollten Sie die Kernkonzepte und -technologien des Nutanix Enterprise Cloud-Stacks theoretisch und praktisch erlebt haben.
 
