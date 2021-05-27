@@ -1,4 +1,4 @@
-.. title:: Nutanix Hosted PoC
+.. title:: Nutanix Hosted PoC created by Martin Stenke
 
 .. toctree::
    :maxdepth: 2
